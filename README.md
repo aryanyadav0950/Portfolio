@@ -51,10 +51,9 @@ Portfolio/
 
 ## 🌍 Live Website
 
-After hosting on GitHub Pages, the portfolio is available at:
 
 ```
-[https://aryanyadav0950.github.io/Portfolio/]
+https://aryanyadav0950.github.io/Portfolio/
 ```
 
 
