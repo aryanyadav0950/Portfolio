@@ -54,10 +54,10 @@ Portfolio/
 After hosting on GitHub Pages, the portfolio is available at:
 
 ```
-https://aryanyadav0950.github.io/aryan-portfolio/
+[https://aryanyadav0950.github.io/Portfolio/]
 ```
 
-*(Link becomes active after enabling GitHub Pages)*
+
 
 ---
 
