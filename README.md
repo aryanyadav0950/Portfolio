@@ -7,7 +7,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
 
 --- 
 
-## 🚀 Features
+## 🚀 Features 
 
 - Clean and modern UI  
 - Responsive design for different screen sizes  
