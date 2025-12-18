@@ -13,7 +13,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
 - Responsive design for different screen sizes  
 - Sections included:  
   - About Me
-  - Skills
+  - Skills 
   - Projects
   - Contact Information
 - Direct links to GitHub and LinkedIn
