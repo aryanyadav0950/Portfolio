@@ -14,7 +14,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
 - Sections included:  
   - About Me
   - Skills 
-  - Projects
+  - Projects 
   - Contact Information
 - Direct links to GitHub and LinkedIn
 - Easy to host using GitHub Pages
