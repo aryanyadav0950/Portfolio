@@ -11,7 +11,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
 
 - Clean and modern UI  
 - Responsive design for different screen sizes  
-- Sections included:  
+- Sections included:   
   - About Me
   - Skills 
   - Projects 
