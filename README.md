@@ -2,7 +2,7 @@
   
 This is my **personal portfolio website** built using **HTML and CSS**.      
 It showcases my skills, academic projects, and contact information in a clean and responsive layout.   
- 
+  
 The portfolio is designed to give recruiters and collaborators a quick overview of my background and work. 
  
 ---  
