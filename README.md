@@ -8,7 +8,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
   
 ---     
  
-     
+      
 ## 🚀 Features 
 
 - Clean and modern UI  
