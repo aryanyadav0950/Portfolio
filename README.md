@@ -36,7 +36,7 @@ The portfolio is designed to give recruiters and collaborators a quick overview 
 ```
 Portfolio/
  ├── index.html
- ├── style.css
+ ├── assets
  └── README.md
 ```
 
@@ -55,7 +55,7 @@ Portfolio/
 
 
 ```
-https://aryanyadav0950.github.io/Portfolio/
+https://aryanadavdev.netlify.app
 ```
 
  
